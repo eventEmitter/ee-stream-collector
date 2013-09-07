@@ -1,0 +1,25 @@
+{
+      "name"                    : "ee-stream-collector"
+    , "description"             : "collects all data from a readable stream"
+    , "version"                 : "0.1.0"
+    , "homepage"                : "https://github.com/eventEmitter/ee-stream-collector"
+    , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                 : "MIT"
+    , "os"                      : "linux"
+    , "repository": {
+        "url"                   : "https://github.com/eventEmitter/ee-stream-collector"
+    }
+    , "engines": {
+        "node"                  : ">=0.10.7"
+    }
+    , "bugs": {
+        "url"                   : "https://github.com/eventEmitter/ee-stream-collector/issues"
+    }
+    , "dependencies": {
+          "ee-class"            : "*"
+        , "ee-log"              : "*"
+        , "ee-types"            : "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
