@@ -1,7 +1,7 @@
 {
       "name"                    : "ee-stream-collector"
-    , "description"             : "collects all data from a readable stream"
-    , "version"                 : "0.1.2"
+    , "description"             : "collects all data from a readable stream and returns it as one buffer"
+    , "version"                 : "0.1.4"
     , "homepage"                : "https://github.com/eventEmitter/ee-stream-collector"
     , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                 : "MIT"
@@ -16,7 +16,7 @@
         "url"                   : "https://github.com/eventEmitter/ee-stream-collector/issues"
     }
     , "dependencies": {
-          "ee-class"            : "0.3.x"
+          "ee-class"            : "1.0.x"
         , "ee-log"              : "0.2.x"
         , "ee-types"            : "0.1.x"
     }
