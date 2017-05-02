@@ -1,5 +1,7 @@
 # ee-stream-collector
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-stream-collector.svg)](https://greenkeeper.io/)
+
 collects all data from a readable stream
 
 ## installation
